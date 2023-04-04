@@ -1,4 +1,3 @@
-# Cat-Photo
 <!DOCTYPE html>
 <html lang="en">
 <head>
